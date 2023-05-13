@@ -1,0 +1,15 @@
+/Users/michaeldriscoll/Desktop/repos/practiceMethods/practiceMethods/bin/Debug/net6.0/practiceMethods
+/Users/michaeldriscoll/Desktop/repos/practiceMethods/practiceMethods/bin/Debug/net6.0/practiceMethods.deps.json
+/Users/michaeldriscoll/Desktop/repos/practiceMethods/practiceMethods/bin/Debug/net6.0/practiceMethods.runtimeconfig.json
+/Users/michaeldriscoll/Desktop/repos/practiceMethods/practiceMethods/bin/Debug/net6.0/practiceMethods.dll
+/Users/michaeldriscoll/Desktop/repos/practiceMethods/practiceMethods/bin/Debug/net6.0/practiceMethods.pdb
+/Users/michaeldriscoll/Desktop/repos/practiceMethods/practiceMethods/obj/Debug/net6.0/practiceMethods.csproj.AssemblyReference.cache
+/Users/michaeldriscoll/Desktop/repos/practiceMethods/practiceMethods/obj/Debug/net6.0/practiceMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaeldriscoll/Desktop/repos/practiceMethods/practiceMethods/obj/Debug/net6.0/practiceMethods.AssemblyInfoInputs.cache
+/Users/michaeldriscoll/Desktop/repos/practiceMethods/practiceMethods/obj/Debug/net6.0/practiceMethods.AssemblyInfo.cs
+/Users/michaeldriscoll/Desktop/repos/practiceMethods/practiceMethods/obj/Debug/net6.0/practiceMethods.csproj.CoreCompileInputs.cache
+/Users/michaeldriscoll/Desktop/repos/practiceMethods/practiceMethods/obj/Debug/net6.0/practiceMethods.dll
+/Users/michaeldriscoll/Desktop/repos/practiceMethods/practiceMethods/obj/Debug/net6.0/refint/practiceMethods.dll
+/Users/michaeldriscoll/Desktop/repos/practiceMethods/practiceMethods/obj/Debug/net6.0/practiceMethods.pdb
+/Users/michaeldriscoll/Desktop/repos/practiceMethods/practiceMethods/obj/Debug/net6.0/practiceMethods.genruntimeconfig.cache
+/Users/michaeldriscoll/Desktop/repos/practiceMethods/practiceMethods/obj/Debug/net6.0/ref/practiceMethods.dll
